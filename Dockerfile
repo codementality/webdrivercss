@@ -1,4 +1,4 @@
-FROM node:5.7.1-onbuild
+FROM node:6.8.0-onbuild
 MAINTAINER Lisa Ridley <lhridley@gmail.com>
 
 RUN apt-get update && \
